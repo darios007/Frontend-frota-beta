@@ -1,0 +1,3 @@
+t1;Combustivel
+ipva;IPVA
+multa;Multa
